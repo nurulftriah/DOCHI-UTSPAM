@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.DOCHI" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">#FF4081</item>
+        <item name="colorPrimaryVariant">#F8BBD0</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+
+        <item name="colorSecondary">#FF80AB</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+
+        <item name="android:windowBackground">#000000</item>
+    </style>
+
+    <style name="Theme.DOCHI" parent="Base.Theme.DOCHI" />
+</resources>
