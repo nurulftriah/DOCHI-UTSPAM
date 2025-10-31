@@ -26,45 +26,25 @@
 <img width="161" height="291" alt="image" src="https://github.com/user-attachments/assets/0fd519c8-ee71-4e82-863a-e57d1f386a77" />
 
 **Login Page**  
-![Login](<img width="197" height="353" alt="image" src="https://github.com/user-attachments/assets/102b65e5-c0f1-4eca-9d28-a24f6a5e8a69" />)
-
-**Home Page**  
-![Home](screenshots/home.png)
-
-**Order Page**  
-![Order](screenshots/order.png)
-
-**Success Page**  
-![Success](screenshots/success.png)
-
-
-
-
-
-
 <img width="197" height="353" alt="image" src="https://github.com/user-attachments/assets/102b65e5-c0f1-4eca-9d28-a24f6a5e8a69" />
 
+**Register Page** 
 <img width="196" height="355" alt="image" src="https://github.com/user-attachments/assets/c4eda3b4-12a1-4c0c-8ac7-9579057bf684" />
 
+**Home Page**  
 <img width="176" height="318" alt="image" src="https://github.com/user-attachments/assets/a6ecc519-10ac-44dd-8431-eb9e7bdc1b3d" />
 
 <img width="178" height="316" alt="image" src="https://github.com/user-attachments/assets/d15333b4-0fbf-464b-9833-7de092bd8e8a" />
 
+**Order Page**  
 <img width="194" height="353" alt="image" src="https://github.com/user-attachments/assets/365a0406-4f2f-4fc6-b5f5-3a07540de97c" />
 
+**Alamat Page**  
 <img width="196" height="355" alt="image" src="https://github.com/user-attachments/assets/b2ce9243-59f0-4ac2-bf8f-b09942a22caf" />
 
+**Success Page**  
 <img width="199" height="357" alt="image" src="https://github.com/user-attachments/assets/25759318-6090-42fd-975c-d0ebb6405239" />
 
-
-
-
-
-
-
-
-
-   
 ---
 
 ## Teknologi
