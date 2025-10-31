@@ -6,7 +6,7 @@
 
 ## Fitur Utama
 
-* **Welcome Screen:** Tampilan awal bertema Dochi sebelum masuk ke aplikasi.
+* **Welcome Screen:** Tampilan awal sebelum masuk ke aplikasi.
 * **Login & Register:** Pengguna bisa masuk atau membuat akun baru.
 * **Home Page:** Menampilkan berbagai varian donat seperti Vanilla, Oreo, Matcha, dan Strawberry.
 * **Order Page:** Menampilkan pesanan dan tombol **“Kirim Pesanan”**.
