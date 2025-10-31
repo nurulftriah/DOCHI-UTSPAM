@@ -33,9 +33,9 @@
 <img width="196" height="355" alt="image" src="https://github.com/user-attachments/assets/c4eda3b4-12a1-4c0c-8ac7-9579057bf684" />
 
 **Home Page**  
-<img width="176" height="318" alt="image" src="https://github.com/user-attachments/assets/a6ecc519-10ac-44dd-8431-eb9e7bdc1b3d" />
+<img width="194" height="349" alt="image" src="https://github.com/user-attachments/assets/519fa8ab-52be-4d29-af02-af41d494f3ad" />
 
-<img width="178" height="316" alt="image" src="https://github.com/user-attachments/assets/d15333b4-0fbf-464b-9833-7de092bd8e8a" />
+<img width="194" height="343" alt="image" src="https://github.com/user-attachments/assets/30bc39a4-a549-4ac8-8f6a-fe20619cfd69" />
 
 
 **Order Page**  
