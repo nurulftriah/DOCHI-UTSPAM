@@ -45,11 +45,3 @@
 **Success Page**  
 <img width="199" height="357" alt="image" src="https://github.com/user-attachments/assets/25759318-6090-42fd-975c-d0ebb6405239" />
 
----
-
-## Teknologi
-
-* **Kotlin**
-* **XML Layout (Material Design)**
-* **View Binding**
-* **ConstraintLayout & LinearLayout**
