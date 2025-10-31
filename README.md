@@ -1,4 +1,4 @@
-# 🍩 Dochi — Aplikasi Pemesanan Donat Mochi
+# DOCHI — Aplikasi Pemesanan Donat Mochi
 
 **Dochi** adalah aplikasi Android sederhana untuk memilih dan memesan berbagai varian donat mochi. Aplikasi ini memungkinkan pengguna untuk melihat dan memesan varian donat mochi favorit, mengisi alamat pengiriman pesanan, serta menavigasi dengan mudah lewat **Bottom Navigation (Home, Order, Profile)**.
 
@@ -16,8 +16,6 @@
 ---
 
 ## Screenshot Aplikasi
-
-## 📱 Screenshot Aplikasi
 
 **Welcome Screen**  
 <img width="197" height="354" alt="image" src="https://github.com/user-attachments/assets/e287956f-91e6-43ec-8b1c-ef86bc65a272" />
