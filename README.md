@@ -28,7 +28,7 @@
 **Login Page**  
 <img width="197" height="353" alt="image" src="https://github.com/user-attachments/assets/102b65e5-c0f1-4eca-9d28-a24f6a5e8a69" />
 
-**Register Page** 
+**Register Page**  
 <img width="196" height="355" alt="image" src="https://github.com/user-attachments/assets/c4eda3b4-12a1-4c0c-8ac7-9579057bf684" />
 
 **Home Page**  
