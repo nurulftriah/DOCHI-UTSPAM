@@ -20,10 +20,10 @@
 ## 📱 Screenshot Aplikasi
 
 **Welcome Screen**  
-![Welcome](<img width="197" height="354" alt="image" src="https://github.com/user-attachments/assets/e287956f-91e6-43ec-8b1c-ef86bc65a272" />)
+<img width="197" height="354" alt="image" src="https://github.com/user-attachments/assets/e287956f-91e6-43ec-8b1c-ef86bc65a272" />
 
 **Login & Register Page**  
-![Login](<img width="161" height="291" alt="image" src="https://github.com/user-attachments/assets/0fd519c8-ee71-4e82-863a-e57d1f386a77" />)
+<img width="161" height="291" alt="image" src="https://github.com/user-attachments/assets/0fd519c8-ee71-4e82-863a-e57d1f386a77" />
 
 **Login Page**  
 ![Login](<img width="197" height="353" alt="image" src="https://github.com/user-attachments/assets/102b65e5-c0f1-4eca-9d28-a24f6a5e8a69" />)
