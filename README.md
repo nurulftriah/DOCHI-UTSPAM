@@ -17,12 +17,33 @@
 
 ## Screenshot Aplikasi
 
-1. Welcome Screen
-   <img width="197" height="354" alt="image" src="https://github.com/user-attachments/assets/4c53ac79-5299-4e10-8395-acd3005a10fc" />
+<img width="197" height="354" alt="image" src="https://github.com/user-attachments/assets/e287956f-91e6-43ec-8b1c-ef86bc65a272" />
 
-2. Login
-   <img width="188" height="423" alt="image" src="https://github.com/user-attachments/assets/78ee5528-b48c-4f40-afdf-9281fa8115a8" />
+<img width="161" height="291" alt="image" src="https://github.com/user-attachments/assets/0fd519c8-ee71-4e82-863a-e57d1f386a77" />
 
+<img width="197" height="353" alt="image" src="https://github.com/user-attachments/assets/102b65e5-c0f1-4eca-9d28-a24f6a5e8a69" />
+
+<img width="196" height="355" alt="image" src="https://github.com/user-attachments/assets/c4eda3b4-12a1-4c0c-8ac7-9579057bf684" />
+
+<img width="176" height="318" alt="image" src="https://github.com/user-attachments/assets/a6ecc519-10ac-44dd-8431-eb9e7bdc1b3d" />
+
+<img width="178" height="316" alt="image" src="https://github.com/user-attachments/assets/d15333b4-0fbf-464b-9833-7de092bd8e8a" />
+
+<img width="194" height="353" alt="image" src="https://github.com/user-attachments/assets/365a0406-4f2f-4fc6-b5f5-3a07540de97c" />
+
+<img width="196" height="355" alt="image" src="https://github.com/user-attachments/assets/b2ce9243-59f0-4ac2-bf8f-b09942a22caf" />
+
+<img width="199" height="357" alt="image" src="https://github.com/user-attachments/assets/25759318-6090-42fd-975c-d0ebb6405239" />
+
+
+
+
+
+
+
+
+
+   
 ---
 
 ## Teknologi
