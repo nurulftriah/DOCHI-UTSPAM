@@ -23,7 +23,7 @@
 <img width="197" height="354" alt="image" src="https://github.com/user-attachments/assets/e287956f-91e6-43ec-8b1c-ef86bc65a272" />
 
 **Login & Register Page**  
-<img width="204" height="372" alt="image" src="https://github.com/user-attachments/assets/739d93cd-0c8d-42ef-807b-fa5943d66a27" />
+<img width="199" height="363" alt="image" src="https://github.com/user-attachments/assets/42819abd-b403-4c80-b3ff-e9e14b0863f0" />
 
 
 **Login Page**  
